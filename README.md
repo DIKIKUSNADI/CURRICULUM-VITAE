@@ -8,3 +8,15 @@
 | Nama            | Diki Kusnadi        |
 |-----------------|---------------------|
 | Tempat,tgl lahir|Bandung,24 april 2004|
+
+## Data Pendidikan
+
+
+| Sekolah Dasar|SDN Selajambe 2|
+|--------------|---------------|
+| SMP          |MTs NURIS      |
+
+# Data Kemampuan
+
+| Eskul| Futsal|
+|------|-------|
